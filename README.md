@@ -15,7 +15,15 @@ File Descriptions:
 - `.R file`: R code used for analysis. It is recommended to use RStudio as the IDE and don’t forget to update the file path.
 - `..output R.pdf`: A markdown file generated from the .R code. This file displays the output of each code line.
 
-Feel free to organize your GitHub repository with these files and provide additional context or explanations as needed. Good luck with your time series analysis project! 🚀📊
+## Prediction
+- 1st R
+  ![image](https://github.com/Alanjamlu34/Analisis-Runtun-Waktu-R/assets/142156489/9ebb206b-3f9a-4b12-9469-575ecba204b2)
+  > This is the prediction for the next month (look  at the red dot and line)
+
+- 2nd R
+  ![image](https://github.com/Alanjamlu34/Analisis-Runtun-Waktu-R/assets/142156489/07ab721c-ee53-4a5c-8266-3f1cb6f98497)
+  > This is the comparation between real time (from dataset) and the prediction using SARIMA model
+
 >[!NOTE]
 > Don’t forget to update the file path
 
