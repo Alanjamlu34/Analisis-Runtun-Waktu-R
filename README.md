@@ -1,5 +1,5 @@
 # **Time Series Analysis** 
-_(Analisis Runtun Waktu)_
+## _(Analisis Runtun Waktu)_
 This exercise is taken from the mid-semester and final semester exams at Sanata Dharma University for the course “ARW” (Analisis Runtun Waktu or Time Series Analysis). The analysis techniques used are Moving Average (ARMA and ARIMA).
 
 Contents
