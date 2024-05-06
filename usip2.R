@@ -1,7 +1,7 @@
 library(forecast)
 library(tseries)
 ## 1
-usip = read.csv(file = "D:/Alan/Data SCience/ARW/uts 2/DATA USIP2.csv", header = TRUE, sep = ";")
+usip = read.csv(file = "DATA USIP2.csv", header = TRUE, sep = ";")
 attach(usip)
 usip
 Xt = (usip$JUMLAH)
