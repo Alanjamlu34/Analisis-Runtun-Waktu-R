@@ -25,12 +25,12 @@ Steps:
 5. Model Evaluation: Evaluate the model’s accuracy.
 6. Prediction: Make predictions for future time points.
 
+### Contents
 library
 ```
 forecast
 tseries
 ```
-_*Contents*_
 File Descriptions:
 - **Submission**: Contains the answers (in Indonesian) and explanations.
 - **Dataset**: The dataset used for analysis.
@@ -38,12 +38,12 @@ File Descriptions:
 - **R_output_markdown**: A markdown file generated from the .R code. This file displays the output of each code line.
 
 ## Prediction
-- 1st R
+- 1st. SARIMA Model
   
   ![image](https://github.com/Alanjamlu34/Analisis-Runtun-Waktu-R/assets/142156489/9ebb206b-3f9a-4b12-9469-575ecba204b2)
   > This is the prediction for the next month (look  at the red dot and line)
 
-- 2nd R
+- 2nd. ARIMA Model
   
   ![image](https://github.com/Alanjamlu34/Analisis-Runtun-Waktu-R/assets/142156489/07ab721c-ee53-4a5c-8266-3f1cb6f98497)
   > This is the comparation between real time from dataset (red line) and the prediction using ARIMA model (blue line)
