@@ -1,7 +1,7 @@
 library(forecast)
 library(tseries)
 
-dataUAS = read.csv(file = "D:/Alan/Data SCience/ARW/uts 2/dataUAS.csv", header = TRUE, sep = ";")
+dataUAS = read.csv(file = "Dataset/dataUAS.csv", header = TRUE, sep = ";")
 attach(dataUAS)
 Xt = (dataUAS$Xt)
 # Melakukan tes ADF pada data
