@@ -35,7 +35,7 @@ File Descriptions:
 - **Submission**: Contains the answers (in Indonesian) and explanations.
 - **Dataset**: The dataset used for analysis.
 - **R_code**: R code used for analysis. It is recommended to use RStudio as the IDE and don’t forget to update the file path.
-- **..output R.pdf**: A markdown file generated from the .R code. This file displays the output of each code line.
+- **R_output_markdown**: A markdown file generated from the .R code. This file displays the output of each code line.
 
 ## Prediction
 - 1st R
@@ -50,4 +50,3 @@ File Descriptions:
 
 >[!NOTE]
 > Don’t forget to update the file path
-
